@@ -1,10 +1,9 @@
-## Hi there 👋
-
-
+<h1 align="center">Hi 👋, I'm 贾宛龙</h1>
+- 微信：trampjwl
+- qq群：585667336
 <p align="center">
-<a href="https://github.com/jiawanlong">
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiawanlong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jiawanlong&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
 
 </p>
