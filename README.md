@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 贾宛龙 <span style="font-size:14px !important; color:#ccc;">来自武汉的Giser</span> </h1>
+<h1 align="center">Hi 👋, I'm 贾宛龙  </h1>
 
 
 
